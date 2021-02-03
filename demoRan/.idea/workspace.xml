@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c95a35f-4a16-4dac-89b5-d4062c685853" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\softwareForWork\mavenRepository" />
+        <option name="mavenHome" value="D:\softwareForWork\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\softwareForWork\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
+  <component name="ProjectId" id="1nvhkj50IUn42auQ80hjzB1skEr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redis-02-springboot/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37816092" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.Redis02SpringbootApplicationTests.test2">
+    <configuration name="TestHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ran.TestHash" />
+      <module name="redis-01-jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSortSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ran.TestSortSet" />
+      <module name="redis-01-jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis02SpringbootApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-02-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ran.redis02springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ran.redis02springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.ran.redis02springboot.Redis02SpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis02SpringbootApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-02-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ran.redis02springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ran.redis02springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.ran.redis02springboot.Redis02SpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis02SpringbootApplicationTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-02-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ran.redis02springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ran.redis02springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.ran.redis02springboot.Redis02SpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Redis02SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-02-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ran.redis02springboot.Redis02SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Redis02SpringbootApplicationTests.test2" />
+        <item itemvalue="JUnit.Redis02SpringbootApplicationTests.test1" />
+        <item itemvalue="JUnit.Redis02SpringbootApplicationTests.contextLoads" />
+        <item itemvalue="Application.TestHash" />
+        <item itemvalue="Application.TestSortSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c95a35f-4a16-4dac-89b5-d4062c685853" name="Default Changelist" comment="" />
+      <created>1612276616834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612276616834</updated>
+      <workItem from="1612276617873" duration="3721000" />
+      <workItem from="1612330161827" duration="15715000" />
+      <workItem from="1612360171432" duration="263000" />
+      <workItem from="1612360445017" duration="61000" />
+      <workItem from="1612360515422" duration="5406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1612360140673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1612360140673" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1612341034311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612341034311" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612278888295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1612278888295" />
+    <state width="415" height="466" key="DebuggerActiveHint" timestamp="1612278855150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="415" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1612278855150" />
+    <state x="722" y="110" key="FileChooserDialogImpl" timestamp="1612360914090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612360914090" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1612366302069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612366302069" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1612366302069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612366302069" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1612366302069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612366302069" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1612366302069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612366302069" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1612366301909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612366301909" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1612366301908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612366301908" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1612366301908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612366301908" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1612366301909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612366301909" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1612366122927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1612366122927" />
+    <state x="602" y="116" key="NewModule_or_Project.wizard" timestamp="1612360643381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="602" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1612360643381" />
+    <state x="443" y="0" key="SettingsEditor" timestamp="1612360836408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612360836408" />
+    <state x="306" y="148" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612278823083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="306" y="148" width="923" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1612278823083" />
+    <state x="185" y="24" key="new project wizard" timestamp="1612360901351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="185" y="24" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1612360901351" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1612362889893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1612362889893" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
